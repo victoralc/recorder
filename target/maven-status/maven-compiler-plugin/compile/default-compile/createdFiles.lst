@@ -1,0 +1,11 @@
+sample/recorder/domain/State.class
+sample/recorder/domain/persistence/Log.class
+sample/recorder/domain/persistence/Recorder.class
+sample/recorder/domain/LogSimulator.class
+sample/recorder/domain/LogType.class
+sample/RecorderMain.class
+sample/recorder/domain/tasks/ScreenRecordTask.class
+sample/recorder/domain/tasks/RecordTimer.class
+sample/recorder/domain/LogSimulator$1.class
+sample/recorder/domain/persistence/User.class
+sample/recorder/domain/EventType.class
